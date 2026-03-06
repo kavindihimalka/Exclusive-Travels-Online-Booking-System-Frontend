@@ -297,7 +297,8 @@ Build the main `Navbar` component with responsive design, active route highlight
 
 ---
 
-## Issue #008 — Build Hero Section & Home Page
+## Issue #008 — Build Hero Section & Home Page /DONE
+
 
 **Labels:** `type: feature` `priority: high` `area: frontend` `area: ui/ux` `status: todo`  
 **Milestone:** M2 — Core Features  
