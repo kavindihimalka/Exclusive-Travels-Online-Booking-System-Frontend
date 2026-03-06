@@ -159,7 +159,7 @@ TourismTreasure/
 
 ---
 
-## Issue #003 — Configure Environment Variables & Secrets Management
+## Issue #003 — Configure Environment Variables & Secrets Management /DONE
 
 **Labels:** `type: task` `priority: critical` `area: devops` `area: firebase` `status: todo`  
 **Milestone:** M1 — Project Setup  
